@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Cesta de picnic",
+    "description": "Cesta clássica para colocar seus alimentos.",
+    "price": 30,
+    "image": "https://images.unsplash.com/photo-1613061527119-56ad37b8a581?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Toalha Xadrez",
+    "description": "Toalha para colocar sobre a grama e sentar.",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1616682876554-c843263a28a2?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Guarda-sol",
+    "description": "Não deixe o sol atrapalhar sua experiência.",
+    "price": 60,
+    "image": "https://images.unsplash.com/photo-1496438525525-4fc912de3baa?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Cadeira Dobrável",
+    "description": "Sente-se confortavelmente",
+    "price": 15,
+    "image": "https://images.unsplash.com/photo-1575424909138-46b05e5919ec?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Caixa de som",
+    "description": "Escolha uma trilha sonora para seu picnic.",
+    "price": 40,
+    "image": "https://images.unsplash.com/photo-1564424224827-cd24b8915874?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Baralho de cartas",
+    "description": "Um jogo de cartas para animar seu picnic.",
+    "price": 35,
+    "image": "https://images.unsplash.com/photo-1529480384838-c1681c84aca5?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Descartáveis",
+    "description": "Copos, pratos, talheres e guardanapos.",
+    "price": 20,
+    "image": "https://images.unsplash.com/photo-1560487765-67095b892dd1?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Frutas",
+    "description": "Uva, maçã, banana e várias opções para escolher.",
+    "price": 25,
+    "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Bolo",
+    "description": "Bolos de diferentes sabores para escolher.",
+    "price": 25,
+    "image": "https://images.unsplash.com/photo-1497730620907-6a4cf807bb94?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Suco",
+    "description": "Suco de laranja e uva para seu picnic.",
+    "price": 10,
+    "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "name": "Salgados",
+    "description": "Cento de salgados da sua escolha.",
+    "price": 100,
+    "image": "https://images.unsplash.com/photo-1641848462432-22e177bf42d3?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+]

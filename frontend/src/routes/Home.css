@@ -1,0 +1,35 @@
+.home h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.picnics-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  padding: 0 2rem;
+}
+
+.picnics-container p {
+  text-align: center;
+}
+
+.picnics-container .picnic {
+  max-width: 380px;
+  max-height: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.picnics-container .picnic img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.picnics-container .btn-secondary {
+  max-width: 120px;
+  text-align: center;
+}
