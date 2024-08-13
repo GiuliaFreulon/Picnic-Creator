@@ -16,7 +16,7 @@
 
 This project use MongoDB Atlas as database:
 1. Create a [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) account
-2. Create a new cluster called cluster0
+2. Create a new cluster
 3. Add your IP address to the IP whitelist in the cluster settings
 4. Create a new database user with a username and password
 
